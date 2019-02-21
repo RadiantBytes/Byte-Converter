@@ -2,7 +2,7 @@
  * This program converts a specified number of bytes into a more readable format
  * 
  * Last Modified: October 4, 2016
- * @author: Thomas "RadiantBytes" Lynaugh
+ * @author: Thomas Lynaugh
  */
 
 import java.text.DecimalFormat;
